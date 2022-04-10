@@ -43,8 +43,17 @@ ok | OK | 0xE916FF00 | unknown operation
 -- | XC | 0xE31CFF00 | unknown button and operation
 -- | TWR | 0xF10EFF00 | unknown button and operation
 
+**# TODO**: add missing info
+
 <br>
 
 **Footnote**
 
 submitted by [@sujaykumarh](https://github.com/sujaykumarh)
+
+
+<!-- Required | DO NOT REMOVE -->
+
+<br>
+
+[x] remote codes are verified and tested by `@sujaykumarh`
