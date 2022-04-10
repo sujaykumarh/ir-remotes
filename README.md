@@ -43,7 +43,7 @@ All Contributions are welcome, see [CONTRIBUTING](https://github.com/sujaykumarh
 
 **To Add a new remote**
 
-1. Create a new directory `remote-model` in `remotes` directory. if uknown model then name directory as number model number on the motherboard. if multiple models of same brand then create a directory with the brand name and add each model as a directory in the brand directory.
+1. Create a new directory `remote-model` in `remotes` directory. if uknown model then name directory as model number on the circuit board. if multiple models of same brand then create a directory with the brand name and add each model as a directory in the brand directory.
 
 1. Use `remotes/template.md` as `README.md` file in the new remote.
 
