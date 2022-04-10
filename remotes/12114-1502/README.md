@@ -1,8 +1,8 @@
 # Remote - 12114-1502
 
-**Images**
+**Image**
 
-![remote]((https://raw.githubusercontent.com/sujaykumarh/ir-remotes/main/remotes/12114-1502/remote.png)
+![remote](https://raw.githubusercontent.com/sujaykumarh/ir-remotes/main/remotes/12114-1502/remote.png)
 
 <br>
 
