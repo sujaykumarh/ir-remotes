@@ -24,3 +24,10 @@ button | identifier | label | hex | dec
 <!-- submitted by [@jondoe](https://github.com/jondoe) -->
 
 <!-- thanks: [@jondoe](https://github.com/jondoe) [@jondoe2](https://github.com/jondoe2) -->
+
+
+<!-- Required | DO NOT REMOVE -->
+
+<br>
+
+[ ] remote codes are verified and tested by `@jondoe`
