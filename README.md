@@ -41,6 +41,20 @@ then open `code/reader.ino` in the arduino IDE.
 
 All Contributions are welcome, see [CONTRIBUTING](https://github.com/sujaykumarh/.github/blob/main/.github/CONTRIBUTING.md).
 
+**To Add a new remote**
+
+1. Create a new directory `remote-model` in `remotes` directory. if uknown model then name directory as number model number on the motherboard. if multiple models of same brand then create a directory with the brand name and add each model as a directory in the brand directory.
+
+1. Use `remotes/template.md` as `README.md` file in the new remote.
+
+1. add detail image in the folder with appropriate tags and include internal PCB photo. [reference](https://github.com/sujaykumarh/ir-remotes/tree/main/remotes/12114-1502)
+
+1. add all the codes in `README.md` file.
+
+1. add a csv `codes.csv` file with all the codes if possible. follow the `README.md` table format. _[Optional]_
+
+1. sign the `README.md` file at the end as verified and tested by you.
+
 <br>
 
 ## 📄 LICENSE
